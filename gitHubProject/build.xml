@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project basedir="." default="build" name="restapi_gitHubProject">
+<project basedir="./gitHubProject" default="build" name="restapi_gitHubProject">
     
   <property name="debuglevel" value="source,lines,vars" />
   <property name="target" value="1.7" />
