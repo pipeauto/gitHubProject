@@ -4,3 +4,6 @@ applications:
   host: restapi_pipeauto
   path: restapi_gitHubProject.war
   mem: 64M
+  
+  
+  
