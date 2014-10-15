@@ -51,6 +51,5 @@
   <target name="build-war" depends="build-project">
     <war destfile="${warname}" basedir="bin" />
   </target>
-
   
 </project>
