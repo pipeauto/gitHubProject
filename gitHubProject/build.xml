@@ -7,6 +7,7 @@
   <property name="warname" value="${ant.project.name}.war" />
   <property name="artifact_dir" value="${ARCHIVE_DIR}"/>
   
+	
   <path id="classpathDir">
     <pathelement location="bin" />
   </path>
