@@ -4,3 +4,6 @@ applications:
   host: restapi_pipeauto
   path: r.war
   mem: 64M
+  
+  
+  
