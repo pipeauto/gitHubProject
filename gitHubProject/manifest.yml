@@ -2,5 +2,5 @@
 applications:
 - name: restapi_pipeauto
   host: restapi_pipeauto
-  path: restapi_gitHubProject.war
+  path: r.war
   mem: 64M
