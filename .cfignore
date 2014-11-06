@@ -1,2 +1,4 @@
 launchConfigurations/
-.git/
+.jazz/
+.jazzCache/
+.jazzShed/
